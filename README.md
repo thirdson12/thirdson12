@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thirdson12
-- 👀 I’m interested in pyhton,java and basic security stuff
+- 👀 I’m interested in pyhton,javascript,html,css and laravel
 - 🌱 I’m currently studying software enginnering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me inst:bertu.guneslierr e-mail: bguneslier@gmail.com
