@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thirdson12
-- 👀 I’m interested in Pyhton,Javascript,HTML,CSS and Laravel
+- 👀 I’m interested in Python,Javascript,HTML,CSS and Laravel
 - 🌱 I’m currently studying software enginnering
 - 📫 How to reach me inst:bertu.guneslierr e-mail: bguneslier@gmail.com
 
